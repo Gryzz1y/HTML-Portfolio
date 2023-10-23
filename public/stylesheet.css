@@ -1,0 +1,17 @@
+.JPG{
+    height: 200;
+    width: 200;
+}
+
+.Me{
+    height: auto;
+    width: 50;
+}
+
+h2{
+    display: inline;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
